@@ -1,1 +1,1 @@
-# A simple weather application in NodeJS using Async Nodejs with axios, request, yargs dependencies.
+# A simple weather application in NodeJS using Async Nodejs with axios (Promise based HTTP client for node.js), request (to make http calls), yargs (to build interactive command line tools, by parsing arguments and generating an elegant user interface.) dependencies. The app first takes the geocode address of the place using google API and then tell the weather at that place using another weather API.
